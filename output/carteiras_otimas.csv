@@ -1,0 +1,4 @@
+﻿carteira;peso_PETR4;peso_VALE3;peso_ITUB4;peso_BBDC4;retorno_esperado;volatilidade_esperado;sharpe_esperado;retorno_total_historico;retorno_anualizado_historico;volatilidade_historico;sharpe_historico;max_drawdown_historico
+Mínima Variância;0,218569;0,274570;0,474859;0,032002;0,238457;0,188373;0,535943;1,948873;0,246903;0,188373;0,535943;-0,180159
+Máximo Sharpe;0,737907;0,000000;0,262093;0,000000;0,369363;0,253093;0,916118;4,217337;0,400859;0,253093;0,916118;-0,350425
+Pesos Iguais;0,250000;0,250000;0,250000;0,250000;0,221174;0,194083;0,431124;1,694885;0,224197;0,194083;0,431124;-0,211046
